@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b72af23-33f0-4f89-b69a-bf9853c6c45f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/github.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/network/general_definition/URI3247.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/network/general_definition/URI4172.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network/general_definition/URI.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network/general_definition/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/network/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boot.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +38,8 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/network/general_definition" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -44,6 +50,10 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\软件项目\Pycharm项目\network\general_definition" />
+      <recent name="C:\软件项目\Pycharm项目\images\network\general_definition" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\软件项目\Pycharm项目\images" />
     </key>
@@ -126,13 +136,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1362" height="193" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576928715032" />
-    <state x="365" y="148" key="SettingsEditor" timestamp="1576929591892">
+    <state x="365" y="148" key="SettingsEditor" timestamp="1577892109929">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="365" y="148" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576929591892" />
-    <state x="645" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1576983811608">
+    <state x="365" y="148" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577892109929" />
+    <state x="645" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1577891879925">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="645" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576983811608" />
+    <state x="645" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577891879925" />
   </component>
 </project>

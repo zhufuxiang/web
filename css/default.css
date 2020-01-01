@@ -1,0 +1,42 @@
+/*为页面定义默认值,每个html将应用该样式,用于定义一些全局统一样式*/
+
+body{
+    position: absolute;
+    width: calc(100%);
+    height: calc(100%);
+    border: 1px solid green;
+    padding: 0px;
+}
+
+#content-head{
+    background-color: #96b97d;
+    height: 5%;
+}
+
+#content-head *{
+    height: 100%;
+    color: #fff;
+    text-align: center;
+    line-height: 180%;
+}
+
+#content-body{
+    background-color: #C0C0C0;
+    height: 95%;
+}
+
+#left-nav{
+    background-color: #fff;
+    text-align: center;
+}
+
+#left-nav a{
+    color: #000;
+}
+
+#main{
+    position: absolute;
+    left: 0px;
+    width: 100%;
+}
+
